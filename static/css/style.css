@@ -1,13 +1,10 @@
 body {
-  <body class="bg-dark">
   color: #f7f7f7;
-  <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
-  <div class="jumbotron">
-  <h1 class="display-4">The Truth is Out There</h1>
-</div>
+}
+
+
 .jumbotron {
-  background-image: url("C:\Users\racha\Class\UFO-s\static\images\nasa.jpg");
+  background-image: url("../images/nasa.jpg");
   background-size:100% 100%;
   text-align: center;
-}
 }
